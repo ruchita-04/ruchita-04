@@ -1,0 +1,63 @@
+body{
+	margin-left: 100px;
+    margin-right: 100px;
+    color: black;
+    background-image:url(../bg8.jpeg);
+    background-position: center;
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+*{
+	margin:  0;
+	padding: 0;
+	font-family: Century Gothic;
+	font-size: 20px;
+}
+.logo img{
+	float: left;
+	position: absolute; top: 85px; left: 200px;
+	transform: translate(-80%,-80%);
+	width: 150px;
+	height: 60px;
+}
+.container{
+	 margin-top: 6rem ;
+	 font-family: Century Gothic;
+	 font-size: 20px;
+     margin-left: 100px;
+     margin-right: 100px;
+
+}
+.title{
+	position: absolute;
+	top: 10%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+}
+.title h1 {
+	color:  black;
+	font-size: 70px;
+
+}
+.number{
+	position: absolute;
+	top: 65%;
+	left: 20%;
+}
+.insta{
+	position: absolute;
+	top: 65%;
+	left: 42%;
+}
+.email{
+	position: absolute;
+	top: 65%;
+	left: 69%;
+}
+.mobile{
+	position: absolute;
+	top: 150%;
+	left: 20%;
+}

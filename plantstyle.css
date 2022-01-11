@@ -1,0 +1,119 @@
+body{
+	margin-left: 100px;
+    margin-right: 100px;
+    color: white;
+    background-image:linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,1)), url(../bg1.jpeg);
+    background-position: center;
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+*{
+	margin:  0;
+	padding: 0;
+	font-family: Century Gothic;
+	font-size: 20px;
+}
+
+.logo img{
+	float: left;
+	position: absolute; top: 85px; left: 200px;
+	transform: translate(-80%,-80%);
+	width: 150px;
+	height: 60px;
+}
+.para{
+	margin-bottom: 20px;
+}
+.IndoorPlants{
+	font-size: 50px;
+
+}
+.Heading{
+	font-size: 35px;
+}
+.container{
+	 margin-top: 7rem ;
+}
+.snakeplant{
+	position: relative; top: 220px; left: 400px;
+	transform: translate(-80%,-80%);
+	border: 5px solid #555;
+	border-color: black;
+}
+.gerbera{
+	border: 5px solid #555;
+	border-color: black;
+
+}
+.spiderplant{
+	position: relative; top: 245px; left: 250px;
+	transform: translate(-80%,-80%);
+	border: 5px solid #555;
+	border-color: black;
+
+}
+.arecapalm{
+	border: 5px solid #555;
+	border-color: black;
+
+}
+.Weepingfig{
+	border: 5px solid #555;
+	border-color: black;
+
+}
+.tulsiplant{
+border: 5px solid #555;
+	border-color: black;
+}
+.peacelily{
+border: 5px solid #555;
+	border-color: black;
+}
+.fern{
+	border: 5px solid #555;
+	border-color: black;
+}
+.pothosplant{
+	position: relative; top: 225px; left: 300px;
+	transform: translate(-80%,-80%);
+	border: 5px solid #555;
+	border-color: black;
+
+}
+.aelovera{
+	position: relative; top: 250px; left: 210px;
+	transform: translate(-80%,-80%);
+	border: 5px solid #555;
+	border-color: black;
+}
+
+.title{
+	position: absolute;
+	top: 12%;
+	left: 50%;
+	transform: translate(-80%,-80%);
+}
+.title h1 {
+	color:  #00000;
+	font-size: 70px;
+
+}
+.shop{
+	text-decoration: none;
+	color: white ;
+	font-size: 28px;
+	border: 1px solid #fff;
+	padding: 10px 30px;
+	color: #fff;
+	text-decoration: none;
+	transition: 0.6s ease;
+}
+ 
+.shop:hover{
+	background-color: #fff;
+	color: #000;
+}
